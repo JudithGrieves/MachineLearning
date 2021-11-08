@@ -1,4 +1,5 @@
-# City University of London
+# Judith Grieves
+## City University of London
 ## MSc Data Science  
 Machine Learning project
 
